@@ -1,0 +1,27 @@
+body
+{
+
+  /* background-size: 1000px 100px; */
+  background-color: black;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Silkscreen', cursive;
+}
+h1
+{
+  color: white;
+  box-shadow: orange 20px 10px 50px;
+}
+canvas
+{
+  box-shadow: orange 10px 10px 250px;
+  border: 0.5px solid orange;
+}
+img
+{
+margin-top: 0px;
+}
